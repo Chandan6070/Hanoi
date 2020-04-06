@@ -1,0 +1,40 @@
+1: CHANDAN KUMAR (1KS18CS016)
+2: GUNAL BINANI (1KS18CS025)
+3: BHAGWAT GOUTAM (1KS18CS010)
+
+
+_____________________________________________
+
+Example : 
+ 	  Move disk 3 from Tower A to Tower C
+ 	  Move disk 2 from Tower A to Tower D
+ 	  Move disk 1 from Tower A to Tower B
+ 	  Move disk 2 from Tower D to Tower B
+	  Move disk 3 from Tower C to Tower B
+
+_______________________________________________
+
+Chandan Kumar - Came up with the idea of using m number of Towers 
+		and coded the programe 
+
+Bhagwat Goutam - Helped in debugging the errors in the
+		 code. 
+
+Gunal Binani - Also helped in debugging and checked the 
+	       input and output of the program by using 
+	       testcases.
+
+________________________________________________
+
+Challenges faced were mainly how to deal with m number of Towers 
+and over that moving n/3 disk to differnt towers was the main 
+challenge.
+
+
+How we overcame those challenges - We reffer the text books and
+internet how to deal with m number of towers, and applied the basic 
+concept of tower of hanoi.   
+
+_________________________________________________
+
+	 

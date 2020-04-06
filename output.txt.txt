@@ -1,0 +1,9 @@
+Output - For N=3 Disk
+	
+	Move disk 3 from Tower A to Tower C
+        Move disk 2 from Tower A to Tower D
+        Move disk 1 from Tower A to Tower B
+        Move disk 2 from Tower D to Tower B
+        Move disk 3 from Tower C to Tower B
+
+	
